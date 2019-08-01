@@ -6,5 +6,5 @@ The program formats pdf files so that it's comfortable to read on a phone. It ma
 Examples
 Before                     |  After
 :-------------------------:|:-------------------------:
-![](examples/sample.jpg)   |  ![](examples/sample-after.jpg)
-![](examples/sample.jpg)   |  ![](examples/sample1-after.jpg)
+![](examples/sample.jpg =300x)   |  ![](examples/sample-after.jpg =300x)
+![](examples/sample.jpg =300x)   |  ![](examples/sample1-after.jpg =300x)
