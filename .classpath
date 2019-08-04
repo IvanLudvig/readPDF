@@ -19,5 +19,7 @@
 	<classpathentry kind="lib" path="lib/xmpbox-2.0.16.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/PDFToHTML.jar"/>
+	<classpathentry kind="lib" path="lib/jbig2-imageio-3.0.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

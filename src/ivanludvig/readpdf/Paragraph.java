@@ -7,8 +7,9 @@ import org.apache.pdfbox.pdmodel.font.PDFont;
 
 public class Paragraph {
 	
-	String text;
+	public String text;
 	ArrayList<String> lines;
+	public int page = -1;
 	
 	public Paragraph(String text) {
 		this.text = text;
@@ -58,5 +59,10 @@ public class Paragraph {
 		}
 		return s;
 	}
+	
+	public void setPage(int page) {
+		this.page = page;
+	}
+	
 
 }
