@@ -1,8 +1,9 @@
+### makes pdf files readable on mobile
+
 <p float="left">
 <img src="icon.png" width="300">
-<img src="screenshot.png" width="500">
+<img src="screenshot.png" height="310">
 </p>
-### makes pdf files readable on mobile
 
 The program formats pdf files so that it's comfortable to read on a phone. It makes the font bigger and justifies text. Supports multiple languages and images (images may not be in the same place after conversion).
 
