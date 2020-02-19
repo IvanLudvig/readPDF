@@ -21,5 +21,7 @@
 	<classpathentry kind="lib" path="lib/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/PDFToHTML.jar"/>
 	<classpathentry kind="lib" path="lib/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
